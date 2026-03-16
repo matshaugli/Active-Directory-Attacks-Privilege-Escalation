@@ -69,3 +69,7 @@ This allowed further lateral movement inside the network.
 ### Step 6 – Domain Privilege Escalation
 
 The final stage involved exploiting domain privileges to achieve higher levels of access within the environment. Techniques such as **DCSync attacks** were used to simulate domain compromise.
+
+
+### Project Link
+[Active Directory Exploitation](Ethical_Hacking_A2.pdf)
